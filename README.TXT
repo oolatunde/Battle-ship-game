@@ -12,5 +12,5 @@ if a player misses, the board updates with a sign "+"
 VERSION or DATE:September 15th
 HOW TO START THIS PROJECT: Run the BattleShip program in any JVM
 AUTHORS: John Opeyemi
-USER INSTRUCTIONS: Positions of ships overlap. Could not figure out how to make an exception on 
-already existing ships.
+USER INSTRUCTIONS: Different ships are denoted with separate characters. Hit points do not defer on the type of ship.
+Any hit on a ship is one(1) point.
